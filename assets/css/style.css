@@ -1815,8 +1815,8 @@ textarea.is-invalid {
   }
   
   .whatsapp-icon img {
-	width: 60px;
-	height: 60px;
+	width: 70px;
+	height: 70px;
 	border-radius: 50%;
 	-webkit-box-shadow: 0px 0px 14px 0px #1baa27;
   }
@@ -5503,7 +5503,7 @@ ol.wp-block-rss {
 	}
 
 	.header-layout1 .header-logo {
-		padding: 20px 50px 20px 0
+		padding: 15px 50px 20px 0;
 	}
 
 	.header-layout1 .header-logo .logo-bg {
